@@ -1,0 +1,29 @@
+.app{
+    display: flex;
+    flex-wrap: wrap;
+    text-align:center;
+    justify-content:center;
+    align-items:stretch;
+    margin-top: 50px;
+    padding: 30px;
+    
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px auto;
+}
+.all{
+    border: 5px double gray;
+    background-color:rgb(173, 157, 157);
+}
+span{
+    color: white;
+    margin-right: 5px;
+    
+}
+img{
+    padding-top: 10px;
+    border-radius: 50%;
+}
